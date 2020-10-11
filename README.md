@@ -7,7 +7,8 @@
 - 🌱 I’m currently learning JavaScript | React | React Native
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything that you want to learn
-- 📫 How to reach me: Twitter(https://twitter.com/farukci20)
+- 📫 How to reach me: Twitter (https://twitter.com/farukci20)
+                       Medium (https://medium.com/@FarukC)
 
 <!--
 **farukci/farukci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
