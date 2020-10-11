@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning JavaScript | React | React Native
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything that you want to learn
-- 📫 How to reach me: Twitter (https://twitter.com/farukci20)
+- 📫 How to reach me: Twitter (https://twitter.com/farukci20)\n
                        Medium (https://medium.com/@FarukC)
 
 <!--
