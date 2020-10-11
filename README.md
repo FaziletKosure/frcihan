@@ -2,6 +2,7 @@
 
 <img src="./content_heart-react.gif" alt="react-native" width=200 height=200 align="right">
 
+
 - 🔭 I’m currently working on programming languages
 - 🌱 I’m currently learning JavaScript | React | React Native
 - 👯 I’m looking to collaborate on open source projects
