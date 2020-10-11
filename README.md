@@ -1,7 +1,9 @@
 ### Hi there 👋
 
+<img src="./content_heart-react.gif" alt="react-native" width=200 height=200 align="right">
+
 - 🔭 I’m currently working on programming languages
-- 🌱 I’m currently learning JavaScript | React | React Native         ![reactgif](./content_heart-react.gif)
+- 🌱 I’m currently learning JavaScript | React | React Native
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything that you want to learn
 - 📫 How to reach me: Twitter(https://twitter.com/farukci20)
