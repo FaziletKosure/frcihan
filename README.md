@@ -10,7 +10,7 @@
 <br>
 <br>
 
-- 🔭 I’m currently working on frontend and mobile app development <p align="right"> <img src="./content_heart-react.gif" alt="react-native" width=200 height=200 ></p>
+- 🔭 I’m currently working on frontend and mobile app development 
 - 🌱 I’m currently learning JavaScript | React | React Native
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything that you want to learn
@@ -18,6 +18,7 @@
 
 
 <!--
+<p align="right"> <img src="./content_heart-react.gif" alt="react-native" width=200 height=200 ></p>
 **ferruhcihan/ferruhcihan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
