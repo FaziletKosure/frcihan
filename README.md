@@ -1,5 +1,7 @@
-## Hi there I'm Faruk 👋
 <img src="https://github-readme-stats.vercel.app/api?username=ferruhcihan&show_icons=true" align='right'>
+
+## Hi I'm Faruk 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ferruhcihan" alt="ferruhcihan" /> </p>
 
 <img src="./content_heart-react.gif" alt="react-native" width=200 height=200>
 
@@ -12,7 +14,7 @@
 >> Medium (https://medium.com/@FarukC)
 
 <!--
-**farukci/farukci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ferruhcihan/ferruhcihan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
