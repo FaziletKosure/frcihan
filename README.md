@@ -2,7 +2,6 @@
 
 ## Hi, I'm Faruk 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferruhcihan" alt="ferruhcihan" /> </p>
-<p align="right"> <img src="./content_heart-react.gif" alt="react-native" width=200 height=200 ></p>
 
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/farukci20)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferruhc/)
@@ -14,9 +13,8 @@
 - 🌱 I’m currently learning JavaScript | React | React Native
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything that you want to learn
-- 📫 How to reach me:
->> Twitter (https://twitter.com/) </br>
->> Medium (https://medium.com/)
+<p align="right"> <img src="./content_heart-react.gif" alt="react-native" width=200 height=200 ></p>
+
 
 <!--
 **ferruhcihan/ferruhcihan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
