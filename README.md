@@ -1,6 +1,7 @@
-### Hi there 👋
+## Hi there I'm Faruk 👋
+<hr>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=ferruhcihan&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=ferruhcihan&show_icons=true" align='right'>
 
 <img src="./content_heart-react.gif" alt="react-native" width=200 height=200 align="right">
 
