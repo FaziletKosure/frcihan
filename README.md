@@ -10,7 +10,7 @@
 <br>
 <br>
 <br>
-<img src="./content_heart-react.gif" alt="react-native" width=200 height=200 align="right">
+<img src="./content_heart-react.gif" alt="react-native" width="20%" height="20%" align="right">
 
 - 🔭 I’m currently working on frontend and mobile app development 
 - 🌱 I’m currently learning JavaScript | React | React Native
