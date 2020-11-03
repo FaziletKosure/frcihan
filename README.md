@@ -8,6 +8,8 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferruhc/)
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@FarukC)
 <br>
+<br>
+<br>
 <p align="right"> <img src="./content_heart-react.gif" alt="react-native" width=200 height=200 ></p>
 
 - 🔭 I’m currently working on frontend and mobile app development 
