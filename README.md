@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=ferruhcihan&show_icons=true" align='right' width="40%">
+<img src="https://github-readme-stats.vercel.app/api?username=ferruhcihan&show_icons=true" align='right' width="50%">
 
 
 ## Hi, I'm Faruk 👋
@@ -8,6 +8,7 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferruhc/)
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@FarukC)
 <br>
+<p align="right"> <img src="./content_heart-react.gif" alt="react-native" width=200 height=200 ></p>
 
 - 🔭 I’m currently working on frontend and mobile app development 
 - 🌱 I’m currently learning JavaScript | React | React Native
@@ -22,7 +23,7 @@
 
 
 <!--
-<p align="right"> <img src="./content_heart-react.gif" alt="react-native" width=200 height=200 ></p>
+
 **ferruhcihan/ferruhcihan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
