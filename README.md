@@ -16,6 +16,11 @@
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything that you want to learn
 
+## Medium Articles
+
+- [How to add GIFs in GitHub README Without Software](https://farukc.medium.com/how-to-add-gifs-in-github-readme-without-software-2536128a3dff)
+- [Google Play Services for Genymotion](https://farukc.medium.com/google-play-services-for-genymotion-7d7ff8a056e2)
+
 
 
 <!--
