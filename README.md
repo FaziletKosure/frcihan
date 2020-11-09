@@ -1,12 +1,14 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ferruhcihan&show_icons=true" align='right' width="50%">
 
 
-## Hi, I'm Faruk 👋
+## Hi, I'm Ferruh 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferruhcihan" alt="ferruhcihan" /> </p>
 
-[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/farukci20)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferruhc/)
-[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@FarukC)
+[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://fcihan.medium.com/)
+[![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://youtube.com/channel/UC0zq1UqPsGh51iBZnPNZIaQ)
+[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fcihan20)
+
 <br>
 <br>
 <br>
