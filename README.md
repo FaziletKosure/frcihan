@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=ferruhcihan&show_icons=true" align='right' width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=ferruhcihan&show_icons=true" align='right' width="45%">
 
 
 ## Hi, I'm Ferruh 👋
@@ -21,8 +21,8 @@
 
 ## Medium Articles
 
-- [How to add GIFs in GitHub README Without Software](https://farukc.medium.com/how-to-add-gifs-in-github-readme-without-software-2536128a3dff)
-- [Google Play Services for Genymotion](https://farukc.medium.com/google-play-services-for-genymotion-7d7ff8a056e2)
+- [How to add GIFs in GitHub README Without Software](https://fcihan.medium.com/how-to-add-gifs-in-github-readme-without-software-2536128a3dff)
+- [Google Play Services for Genymotion](https://fcihan.medium.com/google-play-services-for-genymotion-7d7ff8a056e2)
 
 
 
