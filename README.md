@@ -1,5 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=ferruhcihan&show_icons=true&theme=radical" align='right' width="45%">
-<!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical) -->
+<img src="https://github-readme-stats.vercel.app/api?username=ferruhcihan&show_icons=true&theme=tokyonight" align='right' width="45%">
 
 
 ## Hi, I'm Ferruh 👋
