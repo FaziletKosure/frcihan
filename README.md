@@ -4,8 +4,8 @@
 ## Hi 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frcihan" alt="frcihan" /> </p>
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferruhc/)
-[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://fcihan.medium.com/)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frcihan/)
+[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://frcihan.medium.com/)
 [![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://youtube.com/channel/UC0zq1UqPsGh51iBZnPNZIaQ)
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fcihan20)
 
@@ -18,8 +18,8 @@
 
 ## Medium Articles
 
-- [How to add GIFs in GitHub README Without Software](https://fcihan.medium.com/how-to-add-gifs-in-github-readme-without-software-2536128a3dff)
-- [Google Play Services for Genymotion](https://fcihan.medium.com/google-play-services-for-genymotion-7d7ff8a056e2)
+- [How to add GIFs in GitHub README Without Software](https://frcihan.medium.com/how-to-add-gifs-in-github-readme-without-software-2536128a3dff)
+- [Google Play Services for Genymotion](https://frcihan.medium.com/google-play-services-for-genymotion-7d7ff8a056e2)
 
 
 
