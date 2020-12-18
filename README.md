@@ -1,7 +1,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=frcihan&show_icons=true&theme=tokyonight" align='right' width="55%">
 
 
-## Hi 👋
+## Hi there 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frcihan" alt="frcihan" /> </p>
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frcihan/)
